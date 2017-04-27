@@ -1,0 +1,42 @@
+h1{
+	text-align: center;
+
+}
+h3{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+.jumbotron{
+	margin: 3% 12%;
+	border-radius: .5%;
+	padding: 5%;
+}
+#image{
+	width: 100%;
+	max-height: 100%;
+}
+#caption{
+	font-size: 13px;
+	text-align: center;
+}
+#divcaption{
+	background: white;
+	padding-top: 5px;
+	padding-bottom: 3px;
+}
+.imagediv{
+	border-radius: 4px;
+}
+span{
+	font-weight: bold;
+}
+.timeline{
+	padding: 20px 70px 0 70px;
+}
+#codedby{
+	font-size: 10px;
+}
